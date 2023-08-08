@@ -1,0 +1,40 @@
+{
+  "id": "31e7313b-6e98-415a-9226-41e51879ab84",
+  "name": "Purchase",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "05e8e127-22fb-4d7f-88b4-e0a859d434dc",
+      "name": "XTR Enhancement Pack Global (Base)",
+      "publisher": "Xtricate Enterprises Pte Ltd",
+      "version": "20.0.0.18"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "TranslationFile"
+  ]
+}
+  

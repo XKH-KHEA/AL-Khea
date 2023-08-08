@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Purchase">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2675735786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 4131921996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field Customer Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 1413229466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field PR date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 327795152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field PR Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 2294086086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field PR Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 2294086086 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,Technical,Comercial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field PR Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 1136275244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesPerson Codde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field SalesPerson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2675735786 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Pending Approval,Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRT - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 453126264 - Field 3926698677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempBlobs - Field Blob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 453126264 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempBlobs - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2232815382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Picture Galley</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZYItemPictureGallery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2232815382 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZYItemPictureGallery - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2232815382 - Field 3753866914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Picture No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZYItemPictureGallery - Field Item Picture No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2232815382 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZYItemPictureGallery - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2232815382 - Field 2416219710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sequencing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZYItemPictureGallery - Field Sequencing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 2700975802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected approval requests have been delegated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType ApprovalsDelegatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 4241487548" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only approve open approval requests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType ApproveOnlyOpenRequestsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 1663991571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must set up an approver for user ID %1 in the Approval User Setup window.</source>
+          <note from="Developer" annotates="general" priority="2">You must set up an approver for user ID NAVUser in the Approval User Setup window.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType ApproverUserIdNotInSetupErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 2784709916" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only delegate open approval requests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType DelegateOnlyOpenRequestsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 3135394642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no approval request to approve.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType NoReqToApproveErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 3208581810" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no approval request to delegate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType NoReqToDelegateErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 1235920370" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no approval request to reject.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType NoReqToRejectErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 2286885602" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No qualified approver was found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType NoSuitableApproverFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 4005917478" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No approval workflow for this record type is enabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType NoWorkflowEnabledErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 1630916515" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An approval request has been sent.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType PendingApprovalMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 2033593084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only reject open approval entries.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType RejectOnlyOpenRequestsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 83289928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no substitute, direct approver, or approval administrator for user ID %1 in the Approval User Setup window.</source>
+          <note from="Developer" annotates="general" priority="2">There is no substitute for user ID NAVUser in the Approval User Setup window.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType SubstituteNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 2138144800" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID %1 does not exist in the Approval User Setup window.</source>
+          <note from="Developer" annotates="general" priority="2">User ID NAVUser does not exist in the Approval User Setup window.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType UserIdNotInSetupErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3659991469 - NamedType 1486589809" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The workflow user group member with user ID %1 does not exist in the Approval User Setup window.</source>
+          <note from="Developer" annotates="general" priority="2">The workflow user group member with user ID NAVUser does not exist in the Approval User Setup window.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType WFUserGroupNotInSetupErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Approve,Release,Posting,Prepare,Order,Request Approval,History,Print/Send,Navigate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No."</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 4131921996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control Customer Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 1413229466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control PR date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 2294086086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control PR Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 3092002584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRDescription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control PRDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 1136275244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesPerson Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control SalesPerson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 3381569743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action Appoval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 2074535122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action Cancel Approval Re&amp;quest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 383335270 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request approval of the document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action SendApprovalRequest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 383335270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send A&amp;pproval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action SendApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 178095953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 803889193 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve the requested changes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action Approve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1700221123 - Action 803889193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRC - Action Approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No."</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 4131921996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control Customer Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 1413229466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control PR date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 2294086086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control PR Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 3092002584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRDescription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control PRDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 1136275244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesPerson Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control SalesPerson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1869130146 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRL - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Picture Gallery</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the picture?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - NamedType 3791964172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nothing to delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - NamedType NothingDel</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Method 2946154981 - NamedType 659472064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select the image to upload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Method ImportFromDevice - NamedType UploadFileMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Action 3119204463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete the record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action DeletePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Action 3119204463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action DeletePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Action 2864777531 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a picture file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action ImportPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Action 1235620153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action Next - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1524019110 - Action 2082374595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action Previous - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 735987934 - Control 4216299369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2786015285">
+          <source>Purchase Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MarketingSetupExt - Control Purchase Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 735987934 - Field 4216299369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2786015285">
+          <source>Purchase Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MarketingSetupExt - Field Purchase Nos. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
