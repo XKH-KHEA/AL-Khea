@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://192.168.0.194",
+            "server": "http://192.168.0.194:200",
             "serverInstance": "BCP-200-C02",
             "authentication": "UserPassword",
             "startupObjectId": 22,
