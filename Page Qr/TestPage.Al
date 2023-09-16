@@ -1,10 +1,10 @@
-page 50113 "Sales Invoice Query"
+page 60113 "Sales Invoice Querys"
 {
     ApplicationArea = All;
     Caption = 'Sales Invoice Query';
     PageType = List;
     SourceTable = "Sales Temp";
-    UsageCategory = Lists;  
+    UsageCategory = Lists;
     layout
     {
         area(content)
@@ -31,14 +31,14 @@ page 50113 "Sales Invoice Query"
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the Type field.';
                 }
-                  field("No."; Rec."No.")
+                field("No."; Rec."No.")
                 {
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the No. field.';
                 }
-                field(Description;Rec.Description)
+                field(Description; Rec.Description)
                 {
-                     ApplicationArea = All;
+                    ApplicationArea = All;
                     ToolTip = 'Specifies the value of the No. field.';
                 }
                 field(Quantity; Rec.Quantity)
@@ -61,7 +61,7 @@ page 50113 "Sales Invoice Query"
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the Unit Price field.';
                 }
-              
+
                 field("Line Amount"; Rec."Line Amount")
                 {
                     ApplicationArea = All;

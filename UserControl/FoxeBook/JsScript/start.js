@@ -1,0 +1,30 @@
+// startup.js
+// var controlAddin = Document.getElementById('controlAddIn');
+// controlAddIn.innerHTML = '<div style="height :100%;width :100%;backgroun-color:black;"></div>';
+var controlAddIn,nameDiv,cityDiv , tempDiv,imageDiv,image,radio;
+controlAddIn =$('#controlAddIn');
+
+nameDiv =$("<div />",{id :"nameDiv"});
+cityDiv =$("<div />",{id :"cityDiv"});
+tempDiv =$("<div />",{id :"tempDiv"});
+imageDiv =$("<div />",{id :"imageDiv"});
+image = $("<img/>",
+{src :Microsoft.Dynamics.NAV.GetImageResource("Button/Images/Kheas.jpg")});
+imageDiv.append(image);
+controlAddIn.append(imageDiv);
+controlAddIn.append(radio);
+controlAddIn.append(nameDiv);
+controlAddIn.append(cityDiv);
+controlAddIn.append(tempDiv);
+window.GetCustomer = function(Customer)
+{
+    nameDiv.html("Customer Name :" + Customer.name);
+    cityDiv.html("City is :" + Customer.city);
+    tempDiv.html("Current Temperature is :" + Customer.temp);
+    
+}
+window.GetRadio = function(caption,id,type)
+{
+    radio.html (caption+ id + type);
+}
+

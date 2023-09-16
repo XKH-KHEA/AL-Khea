@@ -1,4 +1,4 @@
-page 50120 MyCustomerApi
+page 60120 MyCustomerApis
 {
     PageType = API;
     Caption = 'My Sales Temp API';
@@ -9,20 +9,20 @@ page 50120 MyCustomerApi
     EntitySetName = 'SalesTemps';
     SourceTable = "Sales Temp";
     DelayedInsert = true;
-    ApplicationArea=all;
-    UsageCategory =Administration;
-    
+    ApplicationArea = all;
+    UsageCategory = Administration;
+
     layout
     {
         area(Content)
         {
             repeater(GroupName)
             {
-                field("1";Rec."Bill-to Customer No.")
+                field("1"; Rec."Bill-to Customer No.")
                 {
                     Caption = 'ID';
                 }
-                field("2";Rec."Bill-to Customer Name")
+                field("2"; Rec."Bill-to Customer Name")
                 {
                     Caption = 'Name';
                 }

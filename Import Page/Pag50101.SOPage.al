@@ -3,10 +3,10 @@ page 50121 "SO Page"
     ApplicationArea = All;
     Caption = 'SO Page';
     PageType = List;
-    CardPageId =50114;
+    CardPageId = 50114;
     SourceTable = "SO Import Buffer";
     UsageCategory = Administration;
-    
+
     layout
     {
         area(content)
@@ -98,14 +98,16 @@ page 50121 "SO Page"
     }
     actions
     {
-        area(Processing){
-            action(Import){
+        area(Processing)
+        {
+            action(Import)
+            {
                 Caption = 'Import';
-                ApplicationArea =all;
+                ApplicationArea = all;
                 Promoted = true;
                 PromotedCategory = Category4;
-                PromotedIsBig =true;
-                PromotedOnly=true;
+                PromotedIsBig = true;
+                PromotedOnly = true;
                 RunObject = page 50114;
             }
         }

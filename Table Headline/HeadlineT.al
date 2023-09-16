@@ -1,23 +1,24 @@
 table 50119 HeadlineT
 {
     DataClassification = CustomerContent;
+    Caption = 'HeadlineT';
     fields
     {
-         field(143; "User Security ID"; Guid)
+        field(143; "User Security ID"; Guid)
         {
             Caption = 'User Security ID';
         }
-        field(1;"Id.";Integer)
+        field(1; "Id."; Integer)
         {
-            
+
         }
-        field(13;"Page ID";Integer)
+        field(13; "Page ID"; Integer)
         {
-        
+
         }
-        field(12; Caption;Text[250])
+        field(12; Caption; Text[250])
         {
-            
+
         }
         field(11; "No."; Code[10])
         {
@@ -35,8 +36,8 @@ table 50119 HeadlineT
         }
         field(2; "headline Text"; Text[200])
         {
-           Caption = 'headline Text';
-                 
+            Caption = 'headline Text';
+
         }
         field(3; "headline hyperlink"; Text[200])
         {
@@ -54,7 +55,7 @@ table 50119 HeadlineT
             Caption = 'End date';
             DataClassification = CustomerContent;
         }
-         field(7; "Due date"; DateTime)
+        field(7; "Due date"; DateTime)
         {
             Caption = 'Due date';
             DataClassification = CustomerContent;
@@ -83,7 +84,7 @@ table 50119 HeadlineT
             NoSeriesMgt.InitSeries(SalesSetup."Book Nos.", xRec."No. Series", 0D, "No.", "No. Series");
         end;
     end;
-    
+
     var
         SalesSetup: Record "Sales & Receivables Setup";
         NoSeriesMgt: Codeunit NoSeriesManagement;

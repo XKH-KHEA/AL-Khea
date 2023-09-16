@@ -141,6 +141,7 @@ page 50114 "SO Import Worksheet"
         NoFileFoundMsg: Label 'No Excel file found!';
         BatchISBlankMsg: Label 'Batch name is blank';
         ExcelImportSucess: Label 'Excel is successfully imported.';
+
     local procedure ReadExcelSheet()
     var
 #pragma warning disable AL0185
@@ -160,6 +161,7 @@ page 50114 "SO Import Worksheet"
         TempExcelBuffer.OpenBookStream(IStream, SheetName);
         TempExcelBuffer.ReadSheet();
     end;
+
     local procedure ImportExcelData()
     var
         SOImportBuffer: Record "SO Import Buffer";
@@ -202,6 +204,7 @@ page 50114 "SO Import Worksheet"
         end;
         Message(ExcelImportSucess);
     end;
+
     local procedure GetValueAtCell(RowNo: Integer; ColNo: Integer): Text
     begin
         TempExcelBuffer.Reset();
@@ -211,8 +214,8 @@ page 50114 "SO Import Worksheet"
             exit('');
     end;
 
-     local procedure ExportCustLedgerEntries(var SoImport
-     : Record "SO Import Buffer")
+    local procedure ExportCustLedgerEntries(var SoImport
+    : Record "SO Import Buffer")
     var
         TempExcelBuffer: Record "Excel Buffer" temporary;
         CustLedgerEntriesLbl: Label 'Customer Ledger Entries';

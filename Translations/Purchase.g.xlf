@@ -3,6 +3,21 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Purchase">
     <body>
       <group id="body">
+        <trans-unit id="Table 4239217075 - Field 3279632191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CardItem - Field Desction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4239217075 - Field 1426540758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ds</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CardItem - Field ItemDs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 371252294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HeadlineT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HeadlineT - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 371252294 - Field 2879900210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Caption</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -173,6 +188,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temp - Field No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3841965784 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temp - Field Picture - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3841965784 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Quantity</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -192,6 +212,76 @@
           <source>Unit Price</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temp - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Temp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 2027341874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Bill-to Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 2965034906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Bill-to Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 2324056710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 1234340284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document no.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Document no. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 3582421358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Line Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2266380217 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Temps - Field Unit Price - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1595863803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>SO Import Buffer</source>
@@ -277,6 +367,11 @@
           <source>Unit Price</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 453126264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TempBlobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempBlobs - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 453126264 - Field 3926698677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Blob</source>
@@ -383,6 +478,11 @@
           <note from="Developer" annotates="general" priority="2">The workflow user group member with user ID NAVUser does not exist in the Approval User Setup window.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Approval Mgmt. Ext - NamedType WFUserGroupNotInSetupErr</note>
         </trans-unit>
+        <trans-unit id="Page 1713382345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataStore</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DataStore - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2712891166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Headline Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -483,6 +583,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page HeadlineDaTa - Action filter - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1561814231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HeadlinePage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadlinePage - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1561814231 - NamedType 1678441714" size-unit="char" translate="yes" xml:space="preserve">
           <source>&lt;qualifier&gt;new!&lt;/qualifier&gt;&lt;payload&gt;The first item is &lt;emphasize&gt;%1&lt;/emphasize&gt;&lt;/payload&gt;</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -498,6 +603,56 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page HeadlinePage - NamedType headlinrText</note>
         </trans-unit>
+        <trans-unit id="Page 3808321422 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The MaxStrLen method returns: %1,\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Cards - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3808321422 - Control 2422654130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Weather</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Cards - Control TestPages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2296980656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LooKPage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LooKPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1487439761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LooKPage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LooKPages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2107294683 - Control 2027341874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lookup Page - Control Bill-to Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2107294683 - Control 1234340284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lookup Page - Control Document no. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2107294683 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lookup Page - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3340347590 - Control 2027341874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lookup Pages - Control Bill-to Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3340347590 - Control 1234340284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lookup Pages - Control Document no. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3340347590 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lookup Pages - Control Location Code - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 3185974828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>My Sales Temp API</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -512,6 +667,26 @@
           <source>Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MyCustomerApi - Control 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3197583501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Sales Temp API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyCustomerApis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3197583501 - Control 2347438355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyCustomerApis - Control 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3197583501 - Control 4260528206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyCustomerApis - Control 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4103763152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Point of Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page POS Login Page - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1700221123 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
           <source>New,Process,Report,Approve,Release,Posting,Prepare,Order,Request Approval,History,Print/Send,Navigate</source>
@@ -668,6 +843,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sale Temp. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4204958611 - Control 804664446 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of purchase invoices where your payment is late.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sale Temp. - Control Currency Factor  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4204958611 - Control 2841106278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sum of the accounts that have the cash account category.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sale Temp. - Control Line Amount  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4204958611 - Control 236057861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of new incoming documents in the company. The documents are filtered by today's date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sale Temp. - Control Quantity  - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 4204958611 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>General</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -768,6 +958,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qr - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 140104414 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency Factor field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qr - Control Amount - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 140104414 - Control 2027341874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Bill-to Customer Name field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -833,13 +1028,83 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qr - Control Unit Price - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 1754620043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Qr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 2027341874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Bill-to Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 2965034906 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Bill-to Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 2324056710 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency Factor field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 1234340284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document no. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Document no. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 3582421358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Amount field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Line Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Location Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 1920046521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit of Measure field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1754620043 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Qrs - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1323124605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Invoice Query</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Query - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1323124605 - Control 2027341874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Bill-to Customer Name field.</source>
+          <source>Specifies the value of the Document no. field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Query - Control Bill-to Customer Name - Property ToolTip</note>
         </trans-unit>
@@ -857,6 +1122,11 @@
           <source>Specifies the value of the Currency Factor field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Query - Control Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1323124605 - Control 753866277 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Query - Control Datas - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1323124605 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. field.</source>
@@ -902,6 +1172,76 @@
           <source>Specifies the value of the Unit Price field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Query - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Query</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 2027341874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Bill-to Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 2965034906 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bill-to Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Bill-to Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 2324056710 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency Factor field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 1234340284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document no. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Document no. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 3582421358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Amount field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Line Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Location Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 1920046521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit of Measure field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1220040276 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Invoice Querys - Control Unit Price - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2639436689 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>SO Import Worksheet</source>
@@ -1048,6 +1388,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SO Page - Action Import - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 106119093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Wysiwyg</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Test Wysiwyg - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1524019110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item Picture Gallery</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1098,15 +1443,1825 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ZY Item Picture Gallery - Action Previous - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 3621268163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Barcodes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ItemBarCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3621268163 - ReportDataItem 3276313895 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ItemBarCode - ReportDataItem Item - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 2401235426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Voucher(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Payment Voucher(CVH) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2401235426 - ReportDataItem 1806786327 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard Purchase - Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Payment Voucher(CVH) - ReportDataItem Gen. Journal Line - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Credit Memos (CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3588371971" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ABN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType ABNCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 242191938" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Division Part No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType ABNDivisionPartNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 527587011" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow invoice Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType AllowInvoiceDiscountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 4233096702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType BankAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2728952663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType BankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2609547522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType BuyFromContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2182502985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType BuyFromContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2508934449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType BuyFromContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1964133796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy From Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType BuyFromVendorCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1214816438" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Memo No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType CreditMemoNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 4253417872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType DirectUnitCostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 58636702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType DiscountPercentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 332953149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType DocumentDtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1191032119" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType ExchangeRateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 13422290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType GiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 973567044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType HeaderDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1378777375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType InvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3573196756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType InvDiscountAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1085275642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType LineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 624478676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Invoice Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType OriginalInvDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3121337351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType OriginalInvNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2269794756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType PaymentDiscVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2079014799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType PayToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3401923736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType PayToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1854022560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType PayToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1326689919" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType ReasonCodeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 232471621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType ShiptoAddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(Applies to %1 %2)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase - Credit Memo%1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase - Prepmt. Credit Memo %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1% VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 3913295325" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType VATAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1396908878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType VATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 969467040" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType VATPercentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - NamedType 1306668226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - NamedType VATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - ReportDataItem 2271228953 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Cr. Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - ReportDataItem Purch. Cr. Memo Hdr. - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that interactions with the contact are logged.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 3032261414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to use your own currency instead of the currency of your customers or vendors.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowLCYForFCY - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 3032261414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show LCY for FCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowLCYForFCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 3287387227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that you want to print Thai amounts as words.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowTHAmountInWords - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 3287387227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show TH Amount In Words</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowTHAmountInWords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 3673500749 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that you want to print total amounts as words.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowTotalInWords - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385725845 - Control 3673500749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Total In Words</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Credit Memos (CVH) - Control ShowTotalInWords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Report(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2189117947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType AllowInvoiceDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1908025102" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The purchase order is attached to this message.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType BodyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1930263167" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buyer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType BuyerCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2609547522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType BuyFromContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2182502985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType BuyFromContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2508934449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType BuyFromContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2771379227" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sincerely</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ClosingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2438826717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType CompanyInfoBankAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1275674192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType CompanyInfoBankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1454106313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType CompanyInfoGiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 75049271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ConfirmToCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3801332884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType DirectUniCostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2623093095" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType DocumentTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3897674943" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType EmailIDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1909269221" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = CurrExchRate."Relational Exch. Rate Amount", %2 = CurrExchRate."Exchange Rate Amount"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ExchangeRateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 340642376" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Receipt Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ExpectedReceiptDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 514421613" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hello</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType GreetingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1170285572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType InvDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3392267841" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3269490021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemLineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 41194798" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemNumberCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1497765590" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemQuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 313566497" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemUnitCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 198682506" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemUnitOfMeasureCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1072087502" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ItemUnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3184947576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType JobNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1742294907" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Task No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType JobTaskNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2134599625" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType LocalCurrentyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1095348740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType OrderDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2893846144" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PaymentDetailsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3169568710" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PaymentTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2079014799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PayToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3401923736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PayToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1854022560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PayToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3626250946" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Planned Receipt Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PlannedReceiptDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3013644840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PrepaymentSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2780112871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PrepmtInvBuDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1225323363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PrepmtInvBufGLAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2677110465" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepmt. Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PrepymtTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 182229247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment VAT Amount Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PrepymtVATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 611284396" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices Including VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PricesIncludingVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1332311937" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices Including VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PricesInclVATtxtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 122545475" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promised Receipt Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PromisedReceiptDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 634581238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PurchLineInvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3411081103" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PurchLineLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1517777218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PURCHASE ORDER</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PurchOrderCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 147899814" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Date:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PurchOrderDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 4270456244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Number:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType PurchOrderNumCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 415620768" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receive By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ReceivebyCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2291760470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Receipt Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType RequestedReceiptDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 203962742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ShipmentMethodDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 232471621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ShiptoAddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1729335317" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Ident. Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType TaxIdentTypeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2566983481" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType ToCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1349122805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType TotalPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2786556803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType UnitPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2096959425" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VALVATBaseLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3915137156" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATAmountSpecificationLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1223243188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATAmtLineInvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3691499681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATAmtLineLineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 977652710" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATAmtLineVATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1210262078" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATAmtLineVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1396908878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 232398666" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATDiscountAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 132160432" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VendNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 361562039" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VendorIDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 1397476154" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VendorInvoiceNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - NamedType 3257397675" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - NamedType VendorOrderNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - ReportDataItem 2072992664 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard Purchase - Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - ReportDataItem Purchase Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - Control 3255118903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to archive the order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - Control ArchiveDocument - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to log this interaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3870769893 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order Report - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Quote Report(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3588371971" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ABN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType ABNCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 4233096702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType BankAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3618206462" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType BankCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2609547522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType BuyFromContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2182502985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType BuyFromContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2508934449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType BuyFromContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3783548587" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Div. Part No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType DivPartNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3112881028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DocumentDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType DocDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 620037663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType EmailIdCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3633789577" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType ExpectedDate1CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2188076586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType ExpectedDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 674998214" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fax No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType FaxNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 13422290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType GiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2090169835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType HdrDimsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HomePage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 581024604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType ItemNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1264881203" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType LineDimsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1663641079" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType OurNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 2079014799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType PayToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3401923736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType PayToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1854022560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType PayToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1745962921" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType QuoteNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1637538090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType ShiptoAddrCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1875652324" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType ShpMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase - Quote %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - NamedType 1306668226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - NamedType VATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - ReportDataItem 2072992664 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Quote</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - ReportDataItem Purchase Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 3255118903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you print it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control ArchiveDocument - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the program to log this interaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 40698897 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Quote Report - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Receipt Report(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2609547522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType BuyFromContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2182502985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType BuyFromContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2508934449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType BuyFromContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3366089415" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType ComInfoBankAccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 1036197131" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType ComInfoVATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3953514980" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ABN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType CompanyInfoABNCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 1454106313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType CompanyInfoGiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2129634229" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Division Part No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType CompInfoABNDivPartNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3343046790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType CompInfoBankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 973567044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType HeaderDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType HomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2785711339" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PaytoAddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2079014799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PayToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3401923736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PayToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 1854022560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PayToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2487846621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Division Part No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PurchRcptHdrABNDivPartNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3316236297" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ABN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PurchRcptHeaderABNCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 2523693117" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType PurchRcptHeaderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase - Receipt %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - ReportDataItem 1052755578 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - ReportDataItem Purch. Rcpt. Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the program to log this interaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 3917594004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the correction lines of an undoing of quantity posting will be shown on the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control ShowCorrectionLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 3917594004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Correction Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control ShowCorrectionLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 22769287 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Receipt Report(CVH) - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Return Shipment.(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 2609547522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType BuyFromContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 2182502985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType BuyFromContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 2508934449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType BuyFromContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 337468425" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyEmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 1739113461" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyInfoBankAccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 1275674192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyInfoBankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 1454106313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyInfoGiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 164013595" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyInfoHomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 322581705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType CompanyInfoVATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 3313737197" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType DocumentDataCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 973567044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType HeaderDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 2079014799" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType PayToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 3401923736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType PayToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 1854022560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType PayToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 1809599508" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType ReturnShipmentHeaderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 3255824643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType ShptShipToAddrCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase - Return Shipment %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - ReportDataItem 1721347679 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Return Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - ReportDataItem Return Shipment Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the program to log this interaction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 3917594004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the correction lines of an undoing of quantity posting will be shown on the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control ShowCorrectionLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 3917594004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Correction Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control ShowCorrectionLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1774979541 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Return Shipment.(CVH) - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 403219054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale Confirmation Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sale Confirmation Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3284913403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale Credit Memos Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sale Credit Memos Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 717693856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale Invoies Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sale Invoies Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 717693856 - ReportDataItem 1335712434 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale Invoies Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sale Invoies Report - ReportDataItem SalesInvoiceHeader - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 717693856 - Control 1940309232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sale Invoies Report - Control fiter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 696013009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale Quote Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sale Quote Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order Confirm (CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1851005282" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType BillToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2423794985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType BillToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 24137681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType BillToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1908025102" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you for your business. Your order confirmation is attached to this message.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType BodyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2771379227" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sincerely</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType ClosingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3280613231" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType CompanyInfoBankAccNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3338143750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType CompanyInfoBankNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1810908995" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType CompanyInfoGiroNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1970452706" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType CompanyInfoPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3701423681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType CopyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1198791402" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType EMailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3642584667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <note from="Developer" annotates="general" priority="2">%1 and %2 are both amounts.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType ExchangeRateTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 514421613" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hello</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType GreetingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1243851074" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType HomePageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3479778493" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType InvDiscBaseAmtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3079811618" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType InvDiscountAmtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 259914550" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType InvNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1448166496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType LineAmtAfterInvDiscLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2284888724" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType LocalCurrencyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2491107794" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify one or more filters to avoid accidently printing all documents.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType NoFilterSetErr</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1877187315" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType PageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 36769898" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType PaymentMethodDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2906320672" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType PaymentTermsDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3007589352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If we receive the payment before %1, you are eligible for a %2% payment discount.</source>
+          <note from="Developer" annotates="general" priority="2">%1 Discount Due Date %2 = value of Payment Discount % </note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType PmtDiscTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3763377721" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType PostedShipmentDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2449874975" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SalesConfirmationLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2105550444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SalesInvLineDiscLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1075159697" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales person</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SalespersonLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2518404021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SellToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 689955230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact Mobile Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SellToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1096796838" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SellToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2531235046" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType ShipmentLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2039684796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType ShiptoAddrLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2175793069" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType ShptMethodDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3014721408" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType SubtotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2410138484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 803899421" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATAmountLCYLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3751533915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATAmtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3978645464" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATAmtSpecificationLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 3259128960" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATBaseLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 282000566" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATBaseLCYLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 2760006609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATClausesLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1071970054" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATIdentifierLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - NamedType 1532992371" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - NamedType VATPercentageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 3255118903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you print it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control ArchiveDocument - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 1885540899 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold. (Only possible for RDLC report layout.)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control DisplayAsmInformation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 1885540899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control DisplayAsmInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that interactions with the contact are logged.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3918357804 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order Confirm (CVH) - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order Report(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - NamedType 833194851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - NamedType HdrDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - NamedType 1176892668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - NamedType TransferOrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - ReportDataItem 151805736 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - ReportDataItem Transfer Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - ReportLabel 2725117825" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - ReportLabel ShptMethodDescCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 941867989 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Order Report - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Receipt Report(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - NamedType 1216568958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - NamedType HdrDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Receipt %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - NamedType 856249130" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - NamedType TransRcptHdrNo2CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - ReportDataItem 3550754772 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Transfer Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - ReportDataItem Transfer Receipt Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want all dimensions assigned to the line to be shown.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1908462875 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Receipt Report - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Shipment Report(CVH)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 1216568958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType HdrDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Shipment %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 2010218130" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType TransShptHdrNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - NamedType 1202652494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - NamedType TransShptShptDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - ReportDataItem 1340367376 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Transfer Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - ReportDataItem Transfer Shipment Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - ReportLabel 131686202" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - ReportLabel ShptMethodCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want all dimensions assigned to the line to be shown.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1041362967 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Transfer Shipment Report - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Query 337235382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Query</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query Sales Query - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Query 1043123555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Query</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Sales Querys - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 735987934 - Control 4216299369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2786015285">
           <source>Purchase Nos.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension MarketingSetupExt - Control Purchase Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1488686280 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Payment Journal Ext. - Action Print - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 75599158 - Control 3748887319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
           <source>Headline Nos.</source>

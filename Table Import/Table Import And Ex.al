@@ -40,7 +40,7 @@ table 50118 "SO Import Buffer"
         field(7; "Sell-to Customer No."; Code[20])
         {
             Caption = 'Sell-to Customer No.';
-             TableRelation =Customer ;
+            TableRelation = Customer;
             DataClassification = CustomerContent;
         }
         field(8; "Document No."; Code[20])

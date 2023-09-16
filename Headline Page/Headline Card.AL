@@ -10,38 +10,38 @@ page 50108 "Headline Card"
         {
             group(General)
             {
-                field("No.";Rec."No.")
+                field("No."; Rec."No.")
                 {
-                    Caption ='Headline No.';
+                    Caption = 'Headline No.';
                     Editable = false;
                     ApplicationArea = All;
                 }
-                field("Id.";Rec."Id.")
+                field("Id."; Rec."Id.")
                 {
-                    ApplicationArea =all;
-                    Caption='Id.';
+                    ApplicationArea = all;
+                    Caption = 'Id.';
                 }
-                 field(Caption;Rec.Caption)
-                 {
-                     ApplicationArea = All;
-                 }
-                    field(Page;Rec."Page ID")
-                    {
-                          ApplicationArea = All;
-                    }
-                field("headline Text";Rec."headline Text")
+                field(Caption; Rec.Caption)
                 {
                     ApplicationArea = All;
                 }
-                  field("headline hyperlink";Rec."headline hyperlink")
+                field(Page; Rec."Page ID")
                 {
-                    Caption='headline hyperlink';
+                    ApplicationArea = All;
+                }
+                field("headline Text"; Rec."headline Text")
+                {
+                    ApplicationArea = All;
+                }
+                field("headline hyperlink"; Rec."headline hyperlink")
+                {
+                    Caption = 'headline hyperlink';
                     ApplicationArea = All;
                 }
             }
             group(Details)
             {
-                field("start date";Rec."start date")
+                field("start date"; Rec."start date")
                 {
                     ApplicationArea = All;
                     // trigger OnValidate()
@@ -50,7 +50,7 @@ page 50108 "Headline Card"
                     //    Error('Start date must be less than End Date');
                     // end;
                 }
-                field("end date";Rec."end date")
+                field("end date"; Rec."end date")
                 {
                     ApplicationArea = All;
                     // trigger OnValidate()
@@ -59,9 +59,9 @@ page 50108 "Headline Card"
                     //    Error('End date must be Than Start Date');
                     // end;
                 }
-                field("Due date";Rec."Due date")
+                field("Due date"; Rec."Due date")
                 {
-                      ApplicationArea = All;
+                    ApplicationArea = All;
                     // trigger OnValidate()
                     // begin
                     // if  Rec."Due date" <= CurrentDateTime then
@@ -71,29 +71,32 @@ page 50108 "Headline Card"
             }
         }
     }
-    actions{
-         
-        area(Processing){
-            action(filter){
-                Caption ='filter';
-                Promoted=true;
-                PromotedCategory =Process;
-                PromotedIsBig =true;
-                PromotedOnly=true;
+    actions
+    {
 
-                    trigger OnAction()
-                    begin
-                  CurrPage.SetSelectionFilter(headline);
-                  Message('Filtter =%1,count=%2',headline.GetFilters(),headline.Count());
-                  headline.FindFirst();
-                  headline.Mark(true);
-                  headline.Next();
-                  headline.Mark(true);
-                  headline.MarkedOnly(true);
-                    end;
+        area(Processing)
+        {
+            action(filter)
+            {
+                Caption = 'filter';
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
+                PromotedOnly = true;
+
+                trigger OnAction()
+                begin
+                    CurrPage.SetSelectionFilter(headline);
+                    Message('Filtter =%1,count=%2', headline.GetFilters(), headline.Count());
+                    headline.FindFirst();
+                    headline.Mark(true);
+                    headline.Next();
+                    headline.Mark(true);
+                    headline.MarkedOnly(true);
+                end;
             }
         }
     }
-    var 
-    headline :Record HeadlineT;
+    var
+        headline: Record HeadlineT;
 }

@@ -11,38 +11,38 @@ page 50111 HeadlineDaTa
     {
         area(content)
         {
-        
+
             repeater(General)
             {
-                
-                field("No.";Rec."No.")
+
+                field("No."; Rec."No.")
                 {
-                    
-                     ApplicationArea = All;
+
+                    ApplicationArea = All;
                     ToolTip = 'Specifies the value of the headline no. field.';
                 }
-                 field("Id.";Rec."Id.")
+                field("Id."; Rec."Id.")
                 {
-                    ApplicationArea =all;
-                    Caption='Id.';
+                    ApplicationArea = all;
+                    Caption = 'Id.';
                 }
-                  field(Caption;Rec.Caption)
-                 {
-                     ApplicationArea = All;
-                 }
-                 field(Page;Rec."Page ID")
-                 {
+                field(Caption; Rec.Caption)
+                {
                     ApplicationArea = All;
-                 }
+                }
+                field(Page; Rec."Page ID")
+                {
+                    ApplicationArea = All;
+                }
                 field("headline Text"; Rec."headline Text")
                 {
-                
+
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the headline Text field.';
                 }
                 field("headline hyperlink"; Rec."headline hyperlink")
                 {
-                        Caption='headline hyperlink';
+                    Caption = 'headline hyperlink';
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the headline hyperlink field.';
                 }
@@ -59,31 +59,34 @@ page 50111 HeadlineDaTa
             }
         }
     }
-      actions{
-         
-        area(Processing){
-            action(filter){
-                ApplicationArea=all;
-                Caption ='filter';
-                Promoted=true;
-                PromotedCategory =Process;
-                PromotedIsBig =true;
-                PromotedOnly=true;
+    actions
+    {
 
-                    trigger OnAction()
-                    begin
-                  CurrPage.SetSelectionFilter(headline);
-                  Message('Filtter =%1,count=%2',headline.GetFilters(),headline.Count());
-                  headline.FindFirst();
-                  headline.Mark(true);
-                  headline.Next();
-                  headline.Mark(true);
-                  headline.MarkedOnly(true);
-                 // headline.run();
-                    end;
+        area(Processing)
+        {
+            action(filter)
+            {
+                ApplicationArea = all;
+                Caption = 'filter';
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
+                PromotedOnly = true;
+
+                trigger OnAction()
+                begin
+                    CurrPage.SetSelectionFilter(headline);
+                    Message('Filtter =%1,count=%2', headline.GetFilters(), headline.Count());
+                    headline.FindFirst();
+                    headline.Mark(true);
+                    headline.Next();
+                    headline.Mark(true);
+                    headline.MarkedOnly(true);
+                    // headline.run();
+                end;
             }
         }
     }
-    var 
-    headline :Record HeadlineT;
+    var
+        headline: Record HeadlineT;
 }

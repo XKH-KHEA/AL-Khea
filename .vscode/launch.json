@@ -9,7 +9,7 @@
             "server": "http://192.168.0.194:200",
             "serverInstance": "BCP-200-C02",
             "authentication": "UserPassword",
-            "startupObjectId": 22,
+            "startupObjectId": 54133,
             "startupObjectType": "Page",
             "port": 2049,
             "breakOnError": "All",
